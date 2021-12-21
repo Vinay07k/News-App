@@ -1,5 +1,5 @@
 # News App
-A news app made using the Flutter News API to provide you with the all new trending news daily.
+A news app made using the Flutter News API to provide you with all the trending news on a daily basis.
 
 You may download it from:
 https://drive.google.com/file/d/1rAXaLjt6yAs091lLxfGbn0dbp68VmK9x/view?usp=sharing
